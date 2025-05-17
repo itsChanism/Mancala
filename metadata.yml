@@ -1,0 +1,12 @@
+---
+:id: 310404225
+:submitters:
+- :name: Jiamu Tang
+  :email: jtang41@u.rochester.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-02-20 19:28:03.008490000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-02-20 11:28:03.008490000 Z
+:status: processed
+:score: 100.0
